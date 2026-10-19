@@ -3,8 +3,8 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=asadofc&style=for-the-badge&color=blueviolet)
-[![GitHub followers](https://img.shields.io/github/followers/asadofc?style=for-the-badge&color=orange)](https://github.com/asadobj)
-[![GitHub stars](https://img.shields.io/github/stars/asadofc?style=for-the-badge&color=yellow)](https://github.com/asadobj)
+[![GitHub followers](https://img.shields.io/github/followers/asadofc?style=for-the-badge&color=orange)](https://github.com/asadvenv)
+[![GitHub stars](https://img.shields.io/github/stars/asadofc?style=for-the-badge&color=yellow)](https://github.com/asadvenv)
 
 </div>
 
